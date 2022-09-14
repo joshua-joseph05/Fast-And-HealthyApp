@@ -153,6 +153,7 @@
 				42CA0EFF28D0171A003D954D /* 73Vz-unscreen.gif */,
 				42CA0EFC28D0171A003D954D /* imageModel.mlmodel */,
 				42CA0EFE28D0171A003D954D /* runningshoe.gif */,
+				4290AEF428D12D5000A0E116 /* ImageFiles */,
 				42CA0EFD28D0171A003D954D /* tutorial2.mov */,
 				42254CD528CEE426008288C1 /* Question.swift */,
 				4278F73528CEE76A00F869D0 /* imageModel.mlmodel */,
@@ -184,6 +185,13 @@
 				42254CC228CEE394008288C1 /* Fast_And_HealthyUITestsLaunchTests.swift */,
 			);
 			path = "Fast And HealthyUITests";
+			sourceTree = "<group>";
+		};
+		4290AEF428D12D5000A0E116 /* ImageFiles */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ImageFiles;
 			sourceTree = "<group>";
 		};
 		D46050EB0953BC1D1AA20F54 /* Pods */ = {

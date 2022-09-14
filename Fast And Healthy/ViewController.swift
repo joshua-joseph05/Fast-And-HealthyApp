@@ -84,7 +84,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBAction func text1changed(_ sender: Any) {
         if let text2 = textfield.text{
             if (textfield.text!.count == 0){
-                require1.text = "required"
+                require1.text = "Required"
                 require1.isHidden = false
                 convertButton.isEnabled = false
             } else {
@@ -97,7 +97,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBAction func text2changed(_ sender: Any) {
         if let text2 = textfield2.text{
             if (textfield2.text!.count == 0){
-                require2.text = "required"
+                require2.text = "Required"
                 require2.isHidden = false
                 convertButton.isEnabled = false
             } else {
@@ -109,7 +109,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
     @IBAction func text3changed(_ sender: Any) {
         if let text3 = textfield3.text{
             if (textfield3.text!.count == 0){
-                require3.text = "required"
+                require3.text = "Required"
                 require3.isHidden = false
                 convertButton.isEnabled = false
             } else {
